@@ -3,6 +3,8 @@ title: Página Inicial
 layout: home
 ---
 
+# Página Inicial
+
 Bem-vindo ao Observatório!
 
 Nosso Observatório é um projeto dedicado à pesquisa, discussão e disseminação de ideias do [Acorda Brasil](https://acordabrasil.discourse.group/). Aqui, você encontrará um espaço de reflexão onde buscamos abordar os principais temas e desafios da nossa época.
